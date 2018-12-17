@@ -1,2 +1,2 @@
 # AngularTest
-This repository will only be used fir angular test project
+This repository will only be used for angular test project
