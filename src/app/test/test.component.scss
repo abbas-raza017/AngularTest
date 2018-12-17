@@ -1,0 +1,33 @@
+.posts-table {
+    margin-top: 50px;
+    td, th {
+        border: solid .5px;
+    }
+    tbody {
+        tr {
+            .delete {
+                cursor: pointer
+            }
+        }
+    }
+}
+
+.container {
+    .add-btn {
+        margin: 20px;
+    }
+}
+
+#confirm-modal {
+    width: 40% !important;
+}
+
+.modal {
+    .yes {
+        color: white;
+        margin-left: 9px;
+    }
+    .row {
+        margin-bottom: 8px;
+    }
+}

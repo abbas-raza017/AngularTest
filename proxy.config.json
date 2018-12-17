@@ -1,0 +1,7 @@
+{
+    "/": {
+      "target": "http://angular-online-test.herokuapp.com",
+      "secure": false,
+      "logLevel": "debug"
+    }
+}
